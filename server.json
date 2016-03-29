@@ -1,0 +1,5 @@
+{
+    "message": "Tenemos datos",
+    "error_message": "Some error",
+    "places": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+}
