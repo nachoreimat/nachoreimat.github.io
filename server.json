@@ -1,5 +1,5 @@
 {
-    "mType": "INFO",
-    "message": "Data received succesfuly",
+    "mType": "ALERT",
+    "message": "Be careful",
     "places": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1]
 }
