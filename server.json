@@ -1,5 +1,6 @@
 {
     "mType": "Info",
     "message": "La versió 2.0 de l'aplicació ja està disponible. Li recomanem que l'actualitzi ben aviat",
-    "places": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1]
+    "freePlaces": 23,
+	"totalPlaces" 43
 }
